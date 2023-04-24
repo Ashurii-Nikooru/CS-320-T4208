@@ -1,2 +1,11 @@
 # CS-320-T4208
 Contact Service
+
+# How can I ensure that my code, program, or software is functional and secure?
+There are many ways to ensure that a code, program or software is functional and secure. There are two ways I ensure my code is functional and secure. One way is through the software developer side, where I can run my code and debug as needed to ensure my code runs. The second way is through the QA engineering side, where I can create code to test my methods, to ensure my code runs as expected.
+
+# How do I interpret user needs and incorporate them into a program?
+I first look at the requirements for the program first. I take these requirements at face value and I write them down to reference later. Once I'm coding and I've added the requirements, I take a step back and look at the program. I analyze exactly how it's going to work for the user. This is where I add and interpret the user needs. Part of their needs is through requirements, but as a user of programs and software myself, I try to take a step back and used what I've learned from the book "Modern Systems Analysis and Design" by Joseph S. Valacich and Joey F. Georgeto help. I try to think of ways I can design the code to work to assist in any user needs for how the program should work.
+
+# How do I approach designing software?
+For now, my approach to designing software is by the books. Or rather by what I have learned here at SNHU. I understand that there are many ways to code the same program, and it's in these differences that our own peronal way of coding comes through. I suppse my style is to make my code as clean and easy to read. If I need checks for values, I would rather create a validation check at the top of my code and call back to furthern down in my code, than to have that mess in the middle of my code. However, with this I also don't make my code super clean and easy to read at first. Like writing and essay, it takes a couple rough drafts before I get my code how I want it to be. I take my time with my code and I try to be as thorough as I posiibly can. I also keep in mind that my code cannot be perfect. As a perfectionist, this is a very difficult pill to swallow, but being aware of this flaw allows me to be more aware of any errors in my code, especially when it comes to requirements for a program.
